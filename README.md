@@ -1,5 +1,9 @@
 # PHP Vagrant VM
 
+### Special Thanks
+
+The `scripts/setup.sh` file is by Chris Fidao - https://gist.github.com/fideloper/7074502
+
 ## Box Info
 
 * Ubuntu 21.04 32-bit
